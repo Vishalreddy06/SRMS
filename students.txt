@@ -1,0 +1,7 @@
+Roll: 132 | Name: Harini | Marks: 20.00
+Roll: 656 | Name: siddu | Marks: 90.00
+Roll: 606 | Name: vissu | Marks: 80.00
+Roll: 123 | Name: arjun | Marks: 100.00
+Roll: 667 | Name: keerthi | Marks: 28.00
+Roll: 1 | Name: BABU | Marks: 100.00
+Roll: 143 | Name: aayan | Marks: 66.00
